@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            LeeJungBin
+        </title>
+    </head>
+    <body>
+        <header>
+            <h1>Portpolio</h1>
+            <h3>You can choose a anything!</h3>
+        </header>
+        <main>
+            <ul>
+                <li>파이썬</li>
+                    <ul>
+                        <li>Basically Notion</li>
+                        <li>My Note Pad</li>
+                        <li>Crawling & Cloning</li>
+                    </ul>
+                <li>자바스크립트</li>
+                <li>CSS</li>
+            </ul>
+        </main>
+
+    </body>
+</html>
+
+This is just a basic file on my portpolio.
